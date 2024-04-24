@@ -1,0 +1,15 @@
+C:\Users\Jhonatan\Documents\Prog.Estudio\Flutter-Dotnet-Repo\DotNet\DotNet_simpleExcercises\DotNet_simpleExcercises\bin\Debug\net8.0\DotNet_simpleExcercises.exe
+C:\Users\Jhonatan\Documents\Prog.Estudio\Flutter-Dotnet-Repo\DotNet\DotNet_simpleExcercises\DotNet_simpleExcercises\bin\Debug\net8.0\DotNet_simpleExcercises.deps.json
+C:\Users\Jhonatan\Documents\Prog.Estudio\Flutter-Dotnet-Repo\DotNet\DotNet_simpleExcercises\DotNet_simpleExcercises\bin\Debug\net8.0\DotNet_simpleExcercises.runtimeconfig.json
+C:\Users\Jhonatan\Documents\Prog.Estudio\Flutter-Dotnet-Repo\DotNet\DotNet_simpleExcercises\DotNet_simpleExcercises\bin\Debug\net8.0\DotNet_simpleExcercises.dll
+C:\Users\Jhonatan\Documents\Prog.Estudio\Flutter-Dotnet-Repo\DotNet\DotNet_simpleExcercises\DotNet_simpleExcercises\bin\Debug\net8.0\DotNet_simpleExcercises.pdb
+C:\Users\Jhonatan\Documents\Prog.Estudio\Flutter-Dotnet-Repo\DotNet\DotNet_simpleExcercises\DotNet_simpleExcercises\obj\Debug\net8.0\DotNet_simpleExcercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Documents\Prog.Estudio\Flutter-Dotnet-Repo\DotNet\DotNet_simpleExcercises\DotNet_simpleExcercises\obj\Debug\net8.0\DotNet_simpleExcercises.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Documents\Prog.Estudio\Flutter-Dotnet-Repo\DotNet\DotNet_simpleExcercises\DotNet_simpleExcercises\obj\Debug\net8.0\DotNet_simpleExcercises.AssemblyInfo.cs
+C:\Users\Jhonatan\Documents\Prog.Estudio\Flutter-Dotnet-Repo\DotNet\DotNet_simpleExcercises\DotNet_simpleExcercises\obj\Debug\net8.0\DotNet_simpleExcercises.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Documents\Prog.Estudio\Flutter-Dotnet-Repo\DotNet\DotNet_simpleExcercises\DotNet_simpleExcercises\obj\Debug\net8.0\DotNet_simpleExcercises.sourcelink.json
+C:\Users\Jhonatan\Documents\Prog.Estudio\Flutter-Dotnet-Repo\DotNet\DotNet_simpleExcercises\DotNet_simpleExcercises\obj\Debug\net8.0\DotNet_simpleExcercises.dll
+C:\Users\Jhonatan\Documents\Prog.Estudio\Flutter-Dotnet-Repo\DotNet\DotNet_simpleExcercises\DotNet_simpleExcercises\obj\Debug\net8.0\refint\DotNet_simpleExcercises.dll
+C:\Users\Jhonatan\Documents\Prog.Estudio\Flutter-Dotnet-Repo\DotNet\DotNet_simpleExcercises\DotNet_simpleExcercises\obj\Debug\net8.0\DotNet_simpleExcercises.pdb
+C:\Users\Jhonatan\Documents\Prog.Estudio\Flutter-Dotnet-Repo\DotNet\DotNet_simpleExcercises\DotNet_simpleExcercises\obj\Debug\net8.0\DotNet_simpleExcercises.genruntimeconfig.cache
+C:\Users\Jhonatan\Documents\Prog.Estudio\Flutter-Dotnet-Repo\DotNet\DotNet_simpleExcercises\DotNet_simpleExcercises\obj\Debug\net8.0\ref\DotNet_simpleExcercises.dll
