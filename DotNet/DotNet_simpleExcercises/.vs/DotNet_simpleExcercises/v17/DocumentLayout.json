@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Jhonatan\\Documents\\Prog.Estudio\\Flutter-Dotnet-Repo\\DotNet\\DotNet_simpleExcercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A330D51D-8152-4F79-8233-2E8A5645C253}|DotNet_simpleExcercises\\DotNet_simpleExcercises.csproj|c:\\users\\jhonatan\\documents\\prog.estudio\\flutter-dotnet-repo\\dotnet\\dotnet_simpleexcercises\\dotnet_simpleexcercises\\filemanage\\filemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A330D51D-8152-4F79-8233-2E8A5645C253}|DotNet_simpleExcercises\\DotNet_simpleExcercises.csproj|solutionrelative:dotnet_simpleexcercises\\filemanage\\filemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A330D51D-8152-4F79-8233-2E8A5645C253}|DotNet_simpleExcercises\\DotNet_simpleExcercises.csproj|c:\\users\\jhonatan\\documents\\prog.estudio\\flutter-dotnet-repo\\dotnet\\dotnet_simpleexcercises\\dotnet_simpleexcercises\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A330D51D-8152-4F79-8233-2E8A5645C253}|DotNet_simpleExcercises\\DotNet_simpleExcercises.csproj|solutionrelative:dotnet_simpleexcercises\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,15 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FileManage.cs",
+              "DocumentMoniker": "C:\\Users\\Jhonatan\\Documents\\Prog.Estudio\\Flutter-Dotnet-Repo\\DotNet\\DotNet_simpleExcercises\\DotNet_simpleExcercises\\FileManage\\FileManage.cs",
+              "RelativeDocumentMoniker": "DotNet_simpleExcercises\\FileManage\\FileManage.cs",
+              "ToolTip": "C:\\Users\\Jhonatan\\Documents\\Prog.Estudio\\Flutter-Dotnet-Repo\\DotNet\\DotNet_simpleExcercises\\DotNet_simpleExcercises\\FileManage\\FileManage.cs",
+              "RelativeToolTip": "DotNet_simpleExcercises\\FileManage\\FileManage.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:34:46.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainClass.cs",
               "DocumentMoniker": "C:\\Users\\Jhonatan\\Documents\\Prog.Estudio\\Flutter-Dotnet-Repo\\DotNet\\DotNet_simpleExcercises\\DotNet_simpleExcercises\\MainClass.cs",
               "RelativeDocumentMoniker": "DotNet_simpleExcercises\\MainClass.cs",
               "ToolTip": "C:\\Users\\Jhonatan\\Documents\\Prog.Estudio\\Flutter-Dotnet-Repo\\DotNet\\DotNet_simpleExcercises\\DotNet_simpleExcercises\\MainClass.cs",
               "RelativeToolTip": "DotNet_simpleExcercises\\MainClass.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T11:59:11.367Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-05-03T11:26:18.93Z",
               "EditorCaption": ""
             }
           ]

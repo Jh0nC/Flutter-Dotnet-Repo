@@ -1,4 +1,4 @@
-﻿namespace DotNet_SimpleExcercises
+﻿namespace DotNet_simpleExcercises
 {
     public class Inherit
     {
